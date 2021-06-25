@@ -20,11 +20,11 @@
 
 This project was developed live at [🚀 NextLevelWeek](https://nextlevelweek.com) with the following technologies:
 
-- [ReactJS](https://reactjs.org/) 
-- [Typescript][https://www.typescriptlang.org] 
-- [React-Router-Dom](https://github.com/ReactTraining/react-router) 
-- [Firebase](https://console.firebase.google.com/) 
-- [Figma](https://figma.com) 
+- [ReactJS](reactjs) 
+- [Typescript][ts] 
+- [React-Router-Dom](reactRouterDom) 
+- [Firebase](firebase) 
+- [Figma](figma) 
 
 ## :memo: License
 
@@ -33,3 +33,9 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Vict
 ---
 
 Made with ♥ by [VictorOficial](https://github.com/VictorOficial)
+
+[reactJs]: https://reactjs.org
+[ts]: https://www.typescriptlang.org
+[reactRouterDom]: https://github.com/ReactTraining/react-router
+[firebase]: https://console.firebase.google.com/
+[figm]: https://figma.com
