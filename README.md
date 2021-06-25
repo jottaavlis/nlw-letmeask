@@ -5,9 +5,9 @@
 </h1>  
 <h2 align="center">Letmeask - Nlw 6 | Mission Complete With Sucess!</h2>
 
-<p align="center"> 
-  <img alt="GitHub" src="https://img.shields.io/github/license/VictorOficial/Letmeask/blob/master/LICENSE?label=license&style=flat-square"> 
- </p>
+<a href="https://github.com/VictorOficial/Letmeask/blob/master/LICENSE" align="center"> 
+  <img alt="GitHub" src="https://img.shields.io/github/license/VictorOficial/letmeask/blob/master/LICENSE?label=license&style=flat-square"> 
+ </a>
  
 <h4 align="center">
   This is the project of NextLevelWeek Together event.
