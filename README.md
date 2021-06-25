@@ -26,7 +26,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-![App Screenshot](https://raw.githubusercontent.com/marssaljr/letmeask/main/.github/app.svg) 
+![App Screenshot](https://user-images.githubusercontent.com/79101105/123478162-730e4f00-d5d5-11eb-91a4-00fa89c88fdc.png) 
 
 ## :rocket: Technologies
 
