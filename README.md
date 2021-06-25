@@ -6,7 +6,7 @@
 <h2 align="center">Letmeask - Nlw 6 | Mission Complete With Sucess!</h2>
 
 <a href="https://github.com/VictorOficial/Letmeask/blob/master/LICENSE" align="center"> 
-  <img alt="GitHub" src="https://img.shields.io/github/license/VictorOficial/letmeask/blob/master/LICENSE?label=license&style=flat-square"> 
+  <img alt="GitHub" src="https://img.shields.io/github/license/VictorOficial/Letmeask?label=license"> 
  </a>
  
 <h4 align="center">
