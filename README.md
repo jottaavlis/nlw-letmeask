@@ -1,2 +1,1 @@
-import nlwImg from "https://github.com/marssaljr/letmeask/raw/main/.github/Logo.png";
-<img src="{BadgeURLHere}" />
+![image](https://user-images.githubusercontent.com/79101105/123424009-a2519b80-d596-11eb-90ab-858df0cee948.png)
