@@ -7,11 +7,11 @@
 
 <p align="center">
   <a href="https://github.com/VictorOficial/Letmeask/blob/master/LICENSE"> 
-    <img alt="GitHub" src="https://img.shields.io/github/license/VictorOficial/Letmeask?label=license?style=for-the-badge"> 
+    <img alt="GitHub" src="https://img.shields.io/github/license/VictorOficial/Letmeask?style=for-the-badge"> 
   </a>
-  <p> 
+  <a href="https://github.com/VictorOficial/Letmeask"> 
     <img alt="GitHub" src="https://img.shields.io/github/languages/top/VictorOficial/Letmeask?style=for-the-badge"> 
-  </p>
+  </a>
 </p>
  
 <h4 align="center">
