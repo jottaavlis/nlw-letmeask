@@ -27,6 +27,8 @@ export function Room() {
     async function handleSendQuestion(event: FormEvent) {
         event.preventDefault()
 
+        let randomNumber = Math.random().toString().substr(2, 8);
+
         if (newQuestion.trim() === '') {
             return;
         }
@@ -45,7 +47,7 @@ export function Room() {
             isAnswered: false
         }
 
-        await database.ref(`rooms/${roomId}/questions`).push(question)
+        await database.ref(`rooms/${roomId}/questions/${randomNumber}`).push(question)
 
         setNewQuestion('');
     }

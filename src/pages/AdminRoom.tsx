@@ -13,6 +13,7 @@ import { useRoom } from '../hooks/useRoom';
 import { database } from '../services/firebase';
 
 import '../styles/room.scss';
+import { ConfirmModal } from '../components/ConfirmModal';
 
 type RoomParams = {
     id: string
@@ -35,9 +36,7 @@ export function AdminRoom() {
     }
 
     async function handleDeleteQuestion(questionId: string) {
-        if (window.confirm('Tem certeza que deseja excluir essa pergunta?')) {
-            await database.ref(`rooms/${roomId}/questions/${questionId}`).remove()
-        }
+        <ConfirmModal title="Deletar pergunta" description="Tem certeza que você deseja excluir essa pergunta?" button="Sim, excluir" />
     }
 
     async function handleCheckQuestionAnAnswered(questionId: string) {
