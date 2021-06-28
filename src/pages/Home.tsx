@@ -11,11 +11,15 @@ import { Button } from '../components/Button';
 import { useAuth } from '../hooks/useAuth';
 import { FormEvent, useState } from 'react';
 import { database } from '../services/firebase';
+import { setTimeout } from 'timers';
 
 export function Home() {
     const history = useHistory();
     const { user, signInWithGoogle } = useAuth();
     const [roomCode, setRoomCode] = useState('');
+
+    const [noRoomExistsError, setNoRoomExistsError] = useState(false);
+    const [deletedQuestionError, setDeletedQuestionError] = useState(false);
 
     async function handleCreateRoom() {
         if (!user) {
@@ -35,13 +39,27 @@ export function Home() {
         const roomRef = await database.ref(`/rooms/${roomCode}`).get();
 
         if (!roomRef.exists()) {
-            alert('Essa sala não existe.')
+            setNoRoomExistsError(true)
+
+            setTimeout(() => {
+                setNoRoomExistsError(false)
+            }, 5000)
+
             return;
         }
 
         if (roomRef.val().closedAt) {
-            alert('Essa sala já foi fechada!')
+            setDeletedQuestionError(true)
+
+            setTimeout(() => {
+                setDeletedQuestionError(false)
+            }, 5000)
+
             return;
+        }
+
+        if (user?.id === roomRef.val().authorId) {
+            return history.push(`/admin/rooms/${roomCode}`)
         }
 
         history.push(`/rooms/${roomCode}`)
@@ -73,6 +91,12 @@ export function Home() {
                             Entrar na sala
                         </Button>
                     </form>
+                    {noRoomExistsError && (
+                        <span className="error">Essa sala não existe!</span>
+                    )}
+                    {deletedQuestionError && (
+                        <span className="error">Essa sala foi deletada!</span>
+                    )}
                 </div>
             </main>
         </div>

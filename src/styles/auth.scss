@@ -88,6 +88,15 @@
                 color: #e559f9;
             }
         }
+
+        .error {
+            padding: 8px;
+            margin-top: 16px;
+            color: #e75858;
+            border-radius: 8px;
+            font-weight: 500;
+            background-color: #e7585840;
+        }
     }
 
     .create-room {

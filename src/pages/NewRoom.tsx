@@ -17,20 +17,22 @@ export function NewRoom() {
     async function handleCreateRoom(event: FormEvent) {
         event.preventDefault()
 
-        let randomNumber = Math.random().toString().substr(2, 8);
+        let randomRoomId = Math.random().toString().substr(2, 8);
 
         if (newRoom.trim() === '') {
             return;
         }
 
-        const roomRef = database.ref(`/rooms/${randomNumber}`);
-
-        const firebaseRoom = await roomRef.push({
+        await database.ref(`/rooms/${randomRoomId}`).set({
             title: newRoom,
             authorId: user?.id
+        });
+
+        const roomCode = await database.ref(`/rooms/${randomRoomId}`).once('value').then(snap => {
+            return snap.key;
         })
 
-        history.push(`/admin/rooms/${firebaseRoom.key}`)
+        history.push(`/admin/rooms/${roomCode}`)
     }
 
     return (
