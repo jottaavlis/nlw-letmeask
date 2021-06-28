@@ -97,6 +97,7 @@ export function Home() {
                     {deletedQuestionError && (
                         <span className="error">Essa sala foi deletada!</span>
                     )}
+                    <span className="author-info">Site desenvolvido por <a href="https://github.com/VictorOficial/Letmeask">João Victor Alcântara</a></span>
                 </div>
             </main>
         </div>

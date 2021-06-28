@@ -149,4 +149,14 @@
             margin-left: 16px;
         }
     }
+
+    .author-info {
+        margin-top: 24px;
+        color: #835afd;
+        font-weight: 500;
+
+        > a {
+            text-decoration: none;
+        }
+    }
 }
