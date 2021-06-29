@@ -40,10 +40,16 @@ export function Room() {
             throw new Error("Você precisa entrar primeiro na sua conta Google.")
         }
 
+        let userName = user.name;
+
+        if (userName.length > 5) {
+            userName = `${userName.substr(0, 5)}...`
+        }
+
         const question = {
             content: newQuestion,
             author: {
-                name: user.name,
+                name: userName,
                 avatar: user.avatar
             },
             isHighlighted: false,
@@ -73,8 +79,12 @@ export function Room() {
                 <div id="page-room">
                     <header>
                         <div className="content">
-                            <img src={logoImg} alt="Letmeask" />
-                            <RoomCode code={roomId} />
+                            <a href="/">
+                                <img src={logoImg} alt="Letmeask" />
+                            </a>
+                            <div>
+                                <RoomCode code={roomId} />
+                            </div>
                         </div>
                     </header>
 

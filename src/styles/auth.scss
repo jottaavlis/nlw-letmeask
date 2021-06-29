@@ -50,6 +50,7 @@
         max-width: 320px;
         align-items: stretch;
         text-align: center;
+        padding: 32px 0;
 
         > img {
             align-self: center;
@@ -81,7 +82,7 @@
 
         p {
             font-size: 14px;
-            color: 737380;
+            color: #737380;
             margin-top: 16px;
 
             a {
@@ -127,7 +128,7 @@
 
     .separator {
         font-size: 14px;
-        color: a8a8b3;
+        color: #a8a8b3;
 
         margin: 32px 0;
         display: flex;
@@ -151,8 +152,8 @@
     }
 
     .author-info {
-        margin-top: 24px;
-        color: #835afd;
+        padding: 24px 0;
+        color: #fd5a5a;
         font-weight: 500;
 
         > a {

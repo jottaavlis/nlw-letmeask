@@ -10,8 +10,10 @@
             justify-content: space-between;
             align-items: center;
 
-            > img {
-                max-height: 45px;
+            > a {
+                img {
+                    max-height: 45px;
+                }
             }
 
             > div {
@@ -26,6 +28,7 @@
     }
 
     main {
+        padding: 0 24px;
         max-width: 800px;
         margin: 0 auto;
 
@@ -118,7 +121,7 @@
             text-align: center;
             margin: 0 auto;
             height: 500px;
-            width: 500px;
+            max-width: 500px;
             padding: 8px;
             gap: 16px;
 
@@ -148,11 +151,12 @@
 
 .confirm-modal {
     display: flex;
+    text-align: center;
     align-items: center;
     justify-content: center;
     width: 100vw;
     height: 100vh;
-    position: absolute;
+    position: fixed;
     backdrop-filter: brightness(0.7);
 
     .content {

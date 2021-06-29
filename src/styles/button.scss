@@ -13,8 +13,6 @@
     cursor: pointer;
     border: 0;
 
-    transition: filter 0.2s;
-
     img {
         margin-right: 8px;
     }
@@ -33,10 +31,6 @@
         background: #FFF;
         border: 1px solid #e75858;
         color: #e75858;
-    }
-
-    &:not(:disabled):hover {
-        filter: brightness(0.9);
     }
 
     &:disabled {
