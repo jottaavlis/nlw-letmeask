@@ -23,6 +23,8 @@
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#package-packages">Packages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#atom_symbol-create-react-app">Create React App</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -37,6 +39,22 @@ This project was developed live at [🚀 NextLevelWeek](https://nextlevelweek.co
 - [React-Router-Dom](reactRouterDom) 
 - [Firebase](firebase) 
 - [Figma](figma) 
+
+## :package: Packages
+
+#### :inbox_tray: Install Node.js:
+  - https://nodejs.org/download
+
+#### :inbox_tray: Install Yarn:
+  - https://nodejs.org/download
+
+## :atom_symbol: Create React App
+
+#### :small_orange_diamond: Javascript: 
+    npx create-react-app YOUR-APP-NAME
+
+#### :small_orange_diamond: Typescript: 
+    npx create-react-app YOUR-APP-NAME --template typescript
 
 ## :memo: License
 

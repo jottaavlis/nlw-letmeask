@@ -50,7 +50,7 @@ export function useRoom(roomId: string) {
             if (user?.id === databaseRoom.authorId) {
                 setIsUserAdmin(true)
             } else {
-                return setIsUserAdmin(false)
+                setIsUserAdmin(false)
             }
 
             const firebaseQuestions: FirebaseQuestions = databaseRoom.questions ?? {};
