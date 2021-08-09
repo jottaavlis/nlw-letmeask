@@ -50,11 +50,21 @@ This project was developed live at [🚀 NextLevelWeek](https://nextlevelweek.co
 
 ## :atom_symbol: Create React App
 
+## Using `Node.js`:
+
 #### :small_orange_diamond: Javascript: 
     npx create-react-app YOUR-APP-NAME
 
 #### :small_orange_diamond: Typescript: 
     npx create-react-app YOUR-APP-NAME --template typescript
+    
+## Using `Yarn`:
+    
+#### :small_orange_diamond: Javascript: 
+    yarn create react-app YOUR-APP-NAME
+
+#### :small_orange_diamond: Typescript: 
+    yarn create react-app YOUR-APP-NAME --template typescript
 
 ## :memo: License
 
