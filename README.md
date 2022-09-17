@@ -6,13 +6,13 @@
 <h2 align="center">Letmeask - Nlw 6 | Mission Complete With Sucess!</h2>
 
 <p align="center">
-  <a href="https://github.com/VictorOficial/Letmeask/blob/master/LICENSE"> 
+  <a href="https://github.com/eJotta/Letmeask/blob/master/LICENSE"> 
     <img alt="License" src="https://img.shields.io/github/license/VictorOficial/Letmeask?style=for-the-badge"> 
   </a>
-  <a href="https://github.com/VictorOficial/Letmeask"> 
+  <a href="https://github.com/eJotta/Letmeask"> 
     <img alt="Language Top" src="https://img.shields.io/github/languages/top/VictorOficial/Letmeask?style=for-the-badge"> 
   </a>
-  <a href="https://github.com/VictorOficial/Letmeask"> 
+  <a href="https://github.com/eJotta/Letmeask"> 
     <img alt="Language Count" src="https://img.shields.io/github/languages/count/VictorOficial/Letmeask?style=for-the-badge"> 
   </a>
 </p>
@@ -72,7 +72,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Vict
 
 ---
 
-Made with ♥ by [VictorOficial](https://github.com/VictorOficial)
+Made with ♥ by [eJotta](https://github.com/eJotta)
 
 [reactJs]: https://reactjs.org
 [ts]: https://www.typescriptlang.org
