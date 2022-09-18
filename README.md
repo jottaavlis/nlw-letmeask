@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://github.com/eJotta/Letmeask/blob/master/LICENSE"> 
-    <img alt="License" src="https://img.shields.io/github/license/VictorOficial/Letmeask?style=for-the-badge"> 
+    <img alt="License" src="https://img.shields.io/github/license/eJotta/nlw-letmeask?style=for-the-badge"> 
   </a>
   <a href="https://github.com/eJotta/Letmeask"> 
-    <img alt="Language Top" src="https://img.shields.io/github/languages/top/VictorOficial/Letmeask?style=for-the-badge"> 
+    <img alt="Language Top" src="https://img.shields.io/github/languages/top/eJotta/nlw-letmeask?style=for-the-badge"> 
   </a>
   <a href="https://github.com/eJotta/Letmeask"> 
-    <img alt="Language Count" src="https://img.shields.io/github/languages/count/VictorOficial/Letmeask?style=for-the-badge"> 
+    <img alt="Language Count" src="https://img.shields.io/github/languages/count/eJotta/nlw-letmeask?style=for-the-badge"> 
   </a>
 </p>
  
@@ -68,7 +68,7 @@ This project was developed live at [🚀 NextLevelWeek](https://nextlevelweek.co
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/VictorOficial/Letmeask/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eJotta/nlw-letmeask/blob/master/LICENSE) for more information.
 
 ---
 
