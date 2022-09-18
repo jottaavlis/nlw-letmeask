@@ -17,7 +17,7 @@
 </p>
 
 <h2 align="center">
-  <img alt="LetMeAsk" src="https://user-images.githubusercontent.com/79101105/190882836-70c3b6f7-013d-494b-b01d-8e8d1443318f.png" width="150px"/>  
+  <img alt="LetMeAsk" src="https://user-images.githubusercontent.com/79101105/190882836-70c3b6f7-013d-494b-b01d-8e8d1443318f.png" width="300px"/>  
   <br>
   Mission Complete With Sucess!
   </h2>
