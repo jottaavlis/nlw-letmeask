@@ -17,7 +17,7 @@
 </p>
 
 <h2 align="center">
-  <img alt="LetMeAsk" src="https://user-images.githubusercontent.com/79101105/190882836-70c3b6f7-013d-494b-b01d-8e8d1443318f.png" width="300px"/>  
+  <img alt="LetMeAsk" src="https://user-images.githubusercontent.com/79101105/190882836-70c3b6f7-013d-494b-b01d-8e8d1443318f.png" width="200px"/>  
   <br>
   Mission Complete With Sucess!
   </h2>
@@ -33,8 +33,9 @@
   <a href="#memo-license">License</a>
 </p>
 
-
-![App Screenshot](https://user-images.githubusercontent.com/79101105/123478162-730e4f00-d5d5-11eb-91a4-00fa89c88fdc.png) 
+<kbd>
+<img alt="LetMeAsk" src="https://user-images.githubusercontent.com/79101105/190883952-cb6a425b-8935-4ecc-a4cb-71f7ab5be42a.png"/>
+</kbd>
 
 ## :rocket: Technologies
 
