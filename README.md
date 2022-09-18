@@ -29,9 +29,10 @@
 </p>
 
 <h1 align="center"> 
-  <img alt="LetMeAsk" src="https://user-images.githubusercontent.com/79101105/123453487-ffa91500-d5b5-11eb-887f-1a8f93bf889b.png" width="200px"/>  
+  <img alt="LetMeAsk" src="https://user-images.githubusercontent.com/79101105/190882836-70c3b6f7-013d-494b-b01d-8e8d1443318f.png" width="200px"/>  
   <br>
 </h1>  
+
 
 ![App Screenshot](https://user-images.githubusercontent.com/79101105/123478162-730e4f00-d5d5-11eb-91a4-00fa89c88fdc.png) 
 
