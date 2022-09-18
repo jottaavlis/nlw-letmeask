@@ -17,6 +17,11 @@
   </a>
 </p>
  
+ <h1 align="center"> 
+  <img alt="LetMeAsk" src="https://user-images.githubusercontent.com/79101105/190882836-70c3b6f7-013d-494b-b01d-8e8d1443318f.png" width="200px"/>  
+  <br>
+</h1>  
+
 <h4 align="center">
   This is the project of NextLevelWeek Together event.
 </h4> 
@@ -27,11 +32,6 @@
   <a href="#atom_symbol-create-react-app">Create React App</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
-
-<h1 align="center"> 
-  <img alt="LetMeAsk" src="https://user-images.githubusercontent.com/79101105/190882836-70c3b6f7-013d-494b-b01d-8e8d1443318f.png" width="200px"/>  
-  <br>
-</h1>  
 
 
 ![App Screenshot](https://user-images.githubusercontent.com/79101105/123478162-730e4f00-d5d5-11eb-91a4-00fa89c88fdc.png) 
