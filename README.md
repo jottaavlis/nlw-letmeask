@@ -3,7 +3,11 @@
   <br>  
    :rocket: NextLevelWeek - Together
 </h1>  
-<h2 align="center">Letmeask - Nlw 6 | Mission Complete With Sucess!</h2>
+<h2 align="center">LetMeAsk
+  <br>
+  Mission Complete With Sucess!</h2>
+
+  <img align="center" alt="LetMeAsk" src="https://user-images.githubusercontent.com/79101105/190882836-70c3b6f7-013d-494b-b01d-8e8d1443318f.png" width="200px"/>  
 
 <p align="center">
   <a href="https://github.com/eJotta/Letmeask/blob/master/LICENSE"> 
@@ -16,11 +20,6 @@
     <img alt="Language Count" src="https://img.shields.io/github/languages/count/eJotta/nlw-letmeask?style=for-the-badge"> 
   </a>
 </p>
- 
- <h1 align="center"> 
-  <img alt="LetMeAsk" src="https://user-images.githubusercontent.com/79101105/190882836-70c3b6f7-013d-494b-b01d-8e8d1443318f.png" width="200px"/>  
-  <br>
-</h1>  
 
 <h4 align="center">
   This is the project of NextLevelWeek Together event.
