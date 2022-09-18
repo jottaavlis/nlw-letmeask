@@ -6,7 +6,7 @@
 <h2 align="center">
   <img alt="LetMeAsk" src="https://user-images.githubusercontent.com/79101105/190882836-70c3b6f7-013d-494b-b01d-8e8d1443318f.png" width="150px"/>  
   <br>
-  <strong>LetMeAsk</strong> - Mission Complete With Sucess!</h2>
+  Mission Complete With Sucess!</h2>
 
 <p align="center">
   <a href="https://github.com/eJotta/Letmeask/blob/master/LICENSE"> 
