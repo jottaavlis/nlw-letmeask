@@ -57,7 +57,7 @@ This project was developed live at [🚀 NextLevelWeek](https://nextlevelweek.co
   - https://nodejs.org/download
 
 #### :inbox_tray: Install Yarn:
-  - https://nodejs.org/download
+  - https://classic.yarnpkg.com/lang/en/docs/install
 
 ## :atom_symbol: Create React App
 
